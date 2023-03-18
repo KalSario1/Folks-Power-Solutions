@@ -1,0 +1,812 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Poppins:wght@100&display=swap');
+
+a:link {
+   text-decoration: none;
+   color: inherit;
+ }
+ 
+ a:visited {
+   text-decoration: none;color: inherit;
+ }
+ 
+ a:hover {
+   text-decoration: none;color: inherit;
+ }
+ 
+ a:active {
+   text-decoration: none;color: inherit;
+ }
+body {
+   max-width: 1280px;
+   max-height: 20px;
+   overflow-x: hidden;
+}
+.folks-power, .folks-power * { box-sizing: border-box; }.folks-power {
+      background: #ffffff;
+      width: 1920px; height: 10px;
+      position: relative;
+    }
+ .frame-8 {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: -11px;top: -4px;
+    }
+ .group-1 {
+      flex-shrink: 0;
+      width: 1940px; height: 1030px;
+      position: static;
+    }
+ 
+ .div {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+    flex-shrink: 0;
+      position: relative;
+    }
+ .div2 {
+      flex-shrink: 0;
+      width: 1929px; height: 1010px;
+      position: relative;
+      box-shadow:  0px 20px 35px -30px rgba(0, 0, 0, 0.26);
+      overflow: hidden;
+    }
+ .pexels-pranjal-srivastava-2403251-1 {
+      overflow-x: hidden;
+      width: 1940px; height: 1080px;
+      position: absolute; left: 1px;top: 78px;
+    }
+ .div3 {
+      width: 457px; height: 56px;
+      position: absolute; left: 871px;top: 534px;
+    }
+ .a {
+      background: #d9bf77;
+  border-style: solid; 
+  border-color: #d9bf77;
+  border-width: 1px;
+      width: 212px; height: 50px;
+      position: absolute; left: 106px;top: calc(50% - 133px);
+      box-shadow:  0px 24px 36px -11px rgba(0, 0, 0, 0.09);
+      overflow: hidden;
+    }
+ .apply-with-us {
+      
+      color: #000000;
+      text-align: center;
+      font: 600 16px/16.5px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: absolute; left: 35px;top: 16px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .html{
+      color: #000000;
+      text-align: center;
+      font: 400 12px/12px 'Inter', sans-serif;
+      position: absolute; left: 173.48px;top: 19px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .start-something-that-matters {
+      color: #ffffff;
+      text-align: left;
+      font: 400 64px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 97px;top: 212px;
+      width: 1114px; height: 106px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .stop-wasting-valuable-time-with-projects-that-just-isn-t-you- {
+      color: #ffffff;
+      text-align: left;
+      font: 300 20px/21.6px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: absolute; left: 106px;top: 318px;
+      width: 765px; height: 70px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+.stop-wasting-valuable-time-with-projects-that-just-isn-t-you--span {
+      color: #ffffff;
+      font: 300 20px/21.6px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+    }
+.stop-wasting-valuable-time-with-projects-that-just-isn-t-you--span2 {
+      color: #ffffff;
+      font: 300 20px/21.6px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      text-decoration: underline;
+    }
+ .icons8-instagram-100-1 {
+      width: 98px; height: 105px;
+      position: absolute; left: 1840px;top: 225px;
+    }
+ .icons8-facebook-100-1 {
+      width: 97px; height: 100px;
+      position: absolute; left: 1840px;top: 165px;
+    }
+ .div4 {
+      
+  border-style: solid; 
+  border-color: #000000;
+  border-width: 0px;
+      width: 1929px; height: 80px;
+      position: absolute; left: calc(50% - 959px);
+    }
+ .frame-9 {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: 0px;top: 1055px;
+    }
+ .div5 {
+      display: flex;
+      flex-direction: row;
+      gap: 158px;
+      align-items: center;
+      justify-content: flex-start;
+    flex-shrink: 0;
+      width: 1918px;
+      position: relative;
+    }
+ .div6 {
+      flex-shrink: 0;
+      width: 496px; height: 502.88px;
+      position: relative;
+    }
+ .we-have-a-passion {
+      color: rgba(0, 0, 0, 0.80);
+      text-align: left;
+      font: 700 30px/42px 'Montserrat', sans-serif;
+      position: absolute; left: 151px;top: 53px;
+      width: 460.93px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .helping-you-achieving-your-objectives-a-business-solution-is-a-combination-of-ideas-used-to-help-a-company-achieve-its-objectives--some-relevant-solutions-include-technology-evaluation--strategic-planning-and-the-synthesis-of-complex-business-information--businesses-develop-strategies-that-are-action-oriented-to-expand-the-international-and-domestic-markets {
+      color: #000000;
+      text-align: left;
+      font: 400 20px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 100px;top: 114.44px;
+      width: 589px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .a2 {
+      background: #d9bf77;
+   border-style: solid; 
+   border-color: #d9bf77;
+  border-width: 1px;
+      width: 200px; height: 53px;
+      position: absolute; left: 151px;top: calc(50% - -110.56px);
+      box-shadow:  0px 24px 36px -11px rgba(0, 0, 0, 0.09);
+      overflow: hidden;
+    }
+ .start-a-project {
+      color: #000000;
+      text-align: center;
+      font: 500 16px/16.5px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: absolute; left: 27px;top: 18px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+._2{
+      color: #000000;
+      text-align: center;
+      font: 400 16px/16px 'Inter', sans-serif;
+      position: absolute; left: 174.94px;top: 17px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .div7 {
+      flex-shrink: 0;
+      width: 963px; height: 750px;
+      position: relative;
+    }
+ .frame-10 {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: -2px;top: 1834px;
+    }
+ .section-section-counter {
+      flex-shrink: 0;
+      width: 1920px; height: 239px;
+      position: relative;
+    }
+ .div8 {
+      background: #000000;
+      opacity: 0.800000011920929;
+      position: absolute; right: 0px; left: 0px;bottom: 0.2px; top: 0px;
+      background-image:url(.//div10.png);
+      background-position: cover;
+    }
+ .frame-11 {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: 212px;top: 2073px;
+    }
+ .div9 {
+      display: flex;
+      flex-direction: row;
+      gap: 72px;
+      align-items: center;
+      justify-content: flex-start;
+    flex-shrink: 0;
+      position: relative;
+    }
+ .div10 {
+      flex-shrink: 0;
+      width: 960px; height: 750px;
+      position: relative;
+    }
+ .div11 {
+      flex-shrink: 0;
+      width: 463px; height: 570.08px;
+      position: relative;
+    }
+ .our-skills {
+      color: #d9bf77;
+      text-align: left;
+      font: 700 15px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: absolute; left: 0px;top: 0px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .div12 {
+      display: flex;
+      flex-direction: row;
+      gap: 0px;
+      align-items: center;
+      justify-content: flex-start;
+      position: absolute; right: 0px; left: 0px;top: 51.24px;
+    }
+ .div13 {
+      background: #000000;
+      border-radius: 25px;
+      flex-shrink: 0;
+      width: 50px; height: 50px;
+      position: relative;
+    }
+ ._1 {
+      color: #ffffff;
+      text-align: left;
+      font: 100 16px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 22.11px;top: 14.59px;
+      width: 5.98px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .div14 {
+      flex-shrink: 0;
+      width: 413px; height: 55.8px;
+      position: relative;
+    }
+ .cold-calling {
+      color: rgba(0, 0, 0, 0.80);
+      text-align: left;
+      font: 700 18px/27px 'Montserrat', sans-serif;
+      position: absolute; left: 20px;top: 2px;
+      width: 161px; height: 22px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .--provide-a-solicit-business-from-potential-customers-who-have-not-previously-expressed-interest-in-the-seller-s-product-or-solution {
+      color: #000000;
+      text-align: left;
+      font: 400 16px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 20px;top: 31px;
+      width: 381px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .div15 {
+      display: flex;
+      flex-direction: row;
+      gap: 0px;
+      align-items: center;
+      justify-content: flex-start;
+      position: absolute; right: 0px; left: 0px;top: 177.24px;
+    }
+ ._2 {
+      color: #ffffff;
+      text-align: left;
+      font: 100 16px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 20.45px;top: 14.59px;
+      width: 9.29px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .real-estate {
+      color: rgba(0, 0, 0, 0.80);
+      text-align: left;
+      font: 700 18px/27px 'Montserrat', sans-serif;
+      position: absolute; left: 20px;top: 2px;
+      width: 156px; height: 22px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .providing-people-with-a-place-to-live--to-using-raw-land-to-farm--to-renting-a-commercial-property-for-a-business {
+      color: #000000;
+      text-align: left;
+      font: 400 16px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 20px;top: 56px;
+      width: 381px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .div16 {
+      display: flex;
+      flex-direction: row;
+      gap: 0px;
+      align-items: center;
+      justify-content: flex-start;
+      position: absolute; right: 3px; left: 47px;top: 329.24px;
+    }
+ .a-home-renovation-provides-you-with-a-great-opportunity-to-make-your-house-energy-efficient-and-save-on-electricity-bills {
+      color: #000000;
+      text-align: left;
+      font: 400 16px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 20px;top: 31px;
+      width: 381px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .div17 {
+      display: flex;
+      flex-direction: row;
+      gap: 0px;
+      align-items: center;
+      justify-content: flex-start;
+      position: absolute; right: 15px; left: 35px;top: 452.24px;
+    }
+ .and-more-like---closing-deals--generating-leads--business-solutions--making-calling-list--professionally-trained-agents--24-7-client-support {
+      color: #000000;
+      text-align: left;
+      font: 400 16px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 123px;top: 477.24px;
+      width: 321px; height: 150px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .div18 {
+      background: #000000;
+      border-radius: 25px;
+      width: 50px; height: 50px;
+      position: absolute; left: 0px;top: calc(50% - -14.2px);
+    }
+ ._3 {
+      color: #ffffff;
+      text-align: left;
+      font: 100 16px/28.8px 'Montserrat', sans-serif;
+      position: absolute; left: 20.48px;top: 14.59px;
+      width: 9.23px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .development {
+      color: rgba(0, 0, 0, 0.80);
+      text-align: left;
+      font: 700 18px/27px 'Montserrat', sans-serif;
+      position: absolute; left: 63px;top: 304.24px;
+      width: 128.31px; height: 22px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .div19 {
+      display: flex;
+      flex-direction: row;
+      gap: 0px;
+      align-items: center;
+      justify-content: flex-start;
+      position: absolute; right: 6px; left: -6px;top: 424.24px;
+    }
+ .and-more--- {
+      color: rgba(0, 0, 0, 0.80);
+      text-align: left;
+      font: 700 18px/27px 'Montserrat', sans-serif;
+      position: absolute; left: 20px;top: 2px;
+      width: 140px; height: 22px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .frame-13 {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: -2px;top: 3250px;
+    }
+ .footer {
+      background: #000000;
+      padding: 0px 410px 0px 410px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+    flex-shrink: 0;
+      position: relative;
+    }
+ .div20 {
+      flex-shrink: 0;
+      width: 1100px; height: 346.98px;
+      position: relative;
+    }
+ .div21 {
+      width: 336.66px; height: 322.98px;
+      position: absolute; left: 15px;top: 0px;
+    }
+ .frame-3 {
+      padding: 10px 10px 10px 10px;
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: -10px;top: 15px;
+    }
+ .folks-power-solutions {
+      color: #ffffff;
+      text-align: left;
+      font: 700 22px/33px 'Montserrat', sans-serif;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .frame-6 {
+      padding: 10px 10px 10px 10px;
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: -10px;top: 191px;
+    }
+ .connect-with-us {
+      color: #ffffff;
+      text-align: left;
+      font: 700 22px/33px 'Montserrat', sans-serif;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .frame-7 {
+      display: flex;
+      flex-direction: row;
+      gap: 0px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: 51px;top: 232px;
+    }
+ .facebook-1 {
+      flex-shrink: 0;
+      width: 43px; height: 41px;
+      position: relative;
+    }
+ .icons8-instagram-64--1--1 {
+      flex-shrink: 0;
+      width: 43px; height: 41px;
+      position: relative;
+    }
+ .div22 {
+      height: 346.98px;
+      position: absolute; right: 275.02px; left: 366.65625px;top: 0px;
+    }
+ .frame-4 {
+      padding: 10px 10px 10px 10px;
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: 5px;top: -7px;
+    }
+ .navigation {
+      color: #ffffff;
+      text-align: left;
+      font: 700 22px/33px 'Montserrat', sans-serif;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .div23 {
+      width: 458.33px; height: 199.98px;
+      position: absolute; left: 78.34px;top: 57px;
+    }
+ .ul {
+      padding: 4px 0px 4px 0px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: -43px;top: -4px;
+    }
+ .home {
+      color: rgba(255, 255, 255, 0.30);
+      text-align: left;
+      font: 700 16px/28.8px 'Montserrat', sans-serif;
+      position: relative;
+      width: 50.56px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .services {
+      color: rgba(255, 255, 255, 0.30);
+      text-align: left;
+      font: 700 16px/28.8px 'Montserrat', sans-serif;
+      position: relative;
+      width: 69.97px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .work {
+      color: rgba(255, 255, 255, 0.30);
+      text-align: left;
+      font: 700 16px/28.8px 'Montserrat', sans-serif;
+      position: relative;
+      width: 45.81px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .about {
+      color: rgba(255, 255, 255, 0.30);
+      text-align: left;
+      font: 700 16px/28.8px 'Montserrat', sans-serif;
+      position: relative;
+      width: 51.93px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .blog {
+      color: rgba(255, 255, 255, 0.30);
+      text-align: left;
+      font: 700 16px/28.8px 'Montserrat', sans-serif;
+      position: relative;
+      width: 38.95px; height: 19px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .rectangle-1 {
+      position: absolute; left: 319px;top: 41px;
+      overflow: visible;
+    }
+ .div24 {
+      width: 245px; height: 227px;
+      position: absolute; left: 817px;top: 13px;
+    }
+ .frame-5 {
+      padding: 10px 10px 10px 10px;
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: -10px;top: -7px;
+    }
+ .have-a-question- {
+      color: #ffffff;
+      text-align: left;
+      font: 700 22px/33px 'Montserrat', sans-serif;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .frame-16 {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: 1237px;top: 10px;
+    }
+ .ul2 {
+      padding: 24px 0px 24px 0px;
+      display: flex;
+      flex-direction: row;
+      gap: 29px;
+      align-items: flex-start;
+      justify-content: flex-start;
+    flex-shrink: 0;
+      position: relative;
+    }
+ .home2 {
+      color: #d9bf77;
+      text-align: left;
+      font: 700 20px/21.6px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      width: 106px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .about2 {
+      color: #000000;
+      text-align: left;
+      font: 700 20px/21.6px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .works {
+      color: #000000;
+      text-align: left;
+      font: 700 20px/21.6px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .blog2 {
+      color: #000000;
+      text-align: left;
+      font: 700 20px/21.6px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .contact {
+      color: #000000;
+      text-align: left;
+      font: 700 20px/21.6px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .frame-1 {
+      padding: 10px 10px 10px 10px;
+      display: flex;
+      flex-direction: column;
+      gap: -10 px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: 20px;top: -7px;
+    }
+ .photo-2023-03-15-16-10-43-1 {
+      flex-shrink: 0;
+      width: 128px; height: 80px;
+      position: relative;
+    }
+ .frame-12 {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: 262px;top: 2937px;
+    }
+ .frame-14 {
+      display: flex;
+      flex-direction: row;
+      gap: 57px;
+      align-items: flex-start;
+      justify-content: flex-start;
+    flex-shrink: 0;
+      width: 1393px; height: 191px;
+      position: relative;
+    }
+ .responsive {
+      color: #000000;
+      text-align: center;
+      font: 200 24px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      width: 300px; height: 143px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .passion {
+      color: #000000;
+      text-align: center;
+      font: 200 24px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      width: 300px; height: 143px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .support {
+      color: #000000;
+      text-align: center;
+      font: 200 24px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      width: 288px; height: 143px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .creativity {
+      color: #000000;
+      text-align: center;
+      font: 200 24px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      width: 288px; height: 143px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .frame-15 {
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      position: absolute; left: 807px;top: 2903px;
+    }
+ .about-the-company {
+      color: #d9bf77;
+      text-align: left;
+      font: 700 27px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: relative;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .frame-142 {
+      width: 1512px; height: 81px;
+      position: absolute; left: 203px;top: 3053px;
+    }
+ .fast-in-providing-the-help-our-client-needs {
+      color: #000000;
+      text-align: center;
+      font: 200 20px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: absolute; left: 0px;top: 0px;
+      width: 373px; height: 56px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .to-achieve-all-your-goals-and-your-objectives {
+      color: #000000;
+      text-align: center;
+      font: 200 20px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: absolute; left: 390px;top: 14px;
+      width: 342px; height: 28px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .we-think-with-creativity-in-order-to-help-our-client {
+      color: #000000;
+      text-align: center;
+      font: 200 20px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: absolute; left: 731px;top: 2px;
+      width: 341px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .we-provide-all-kinds-of-support-in-order-to-acheieve-your-objectives-in-the-business-field {
+      color: #000000;
+      text-align: center;
+      font: 200 20px/27px 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      position: absolute; left: 1087px;top: 0px;
+      width: 425px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .photo-2023-03-15-16-10-43-removebg-preview--1--1 {
+      width: 50px; height: 20px;
+      position: absolute; left: -178px;top: -3167px;
+    }
